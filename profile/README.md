@@ -6,3 +6,4 @@
 - WeCours Research
 - WeCours Academy
 - WeCours Press
+- WeCours Tests
