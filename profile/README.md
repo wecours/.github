@@ -1,4 +1,4 @@
-# WeCours Software & Filiale
+# WeCours Software & Subsidiary
 
 | Entity | WebSite |
 |--|--|
