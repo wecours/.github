@@ -1,4 +1,4 @@
-# WeCours Software
+# WeCours Filiale
 
 - Certificate Manager & Verifier
 - WeCours Books
@@ -7,3 +7,4 @@
 - WeCours Academy
 - WeCours Press
 - WeCours Tests
+- WeCours Kids
